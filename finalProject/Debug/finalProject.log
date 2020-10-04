@@ -1,0 +1,99 @@
+﻿  finalProject.c
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(83): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(97): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(99): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(113): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(130): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(131): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(132): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(133): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(134): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(135): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(136): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(208): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(226): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(228): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(230): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(232): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(528): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(530): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(564): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(567): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(569): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(640): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(662): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(663): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(664): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(698): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(720): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(721): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(722): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(729): warning C4047: 'function': 'GLuint *' differs in levels of indirection from 'GLuint **'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(729): warning C4024: 'glGenTextures': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(730): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(730): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(742): warning C4047: 'function': 'GLuint *' differs in levels of indirection from 'GLuint **'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(742): warning C4024: 'glGenTextures': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(743): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(743): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(620): warning C4101: 'tempChar': unreferenced local variable
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(678): warning C4101: 'tempChar2': unreferenced local variable
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(773): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(770): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(794): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(794): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(795): warning C4047: 'function': 'GLboolean' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(795): warning C4024: 'gluQuadricTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(820): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(820): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(821): warning C4047: 'function': 'GLboolean' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(821): warning C4024: 'gluQuadricTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(847): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(856): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(865): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(874): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(888): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(897): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(906): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(915): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(929): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(938): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(947): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(956): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(970): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(979): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(988): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(996): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1063): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1064): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1065): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1071): warning C4047: 'function': 'GLuint *' differs in levels of indirection from 'GLuint **'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1071): warning C4024: 'glGenTextures': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1072): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1072): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1021): warning C4101: 'tempChar3': unreferenced local variable
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1132): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1132): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1133): warning C4047: 'function': 'GLboolean' differs in levels of indirection from 'GLuint *'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1133): warning C4024: 'gluQuadricTexture': different types for formal and actual parameter 2
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1295): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1296): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1296): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1324): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1525): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1529): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1536): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1537): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1538): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1542): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1543): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1544): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1563): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1564): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1569): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1570): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1645): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1742): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\79228\source\repos\finalproject\finalproject\finalproject.c(1750): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  finalProject.vcxproj -> C:\Users\79228\source\repos\finalProject\Debug\finalProject.exe
